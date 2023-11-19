@@ -1,13 +1,5 @@
-#THIS IS THE FINAL VERSION OF THE PROGRAM FOR THIS COURSEWORK
-
 #Author: Vasile-Alexandru Ciulea
-
 #Python minimum version 3.x
-
-#Note: If the program fails to run for whatever reason, try using the following
-#online compiler to run the code: https://www.onlinegdb.com/online_python_compiler
-#If the online compiler is used, make sure that 'Python 3' is selected as the language
-#in the top right corner of the page.
 
 def AND(a,b):
     return a & b
